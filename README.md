@@ -1,6 +1,6 @@
 # DataScience_Medicine
 
-## Yonsei - Naver 데이터 사이언스 응용과정 - 의약학
+## Yonsei - Naver Cloud 데이터 사이언스 응용과정 - 의약학
 ```
 0. 선형회귀분석
 1. 로지스틱회귀분석
