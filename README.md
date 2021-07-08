@@ -11,5 +11,4 @@
 6. 베이지안 머신러닝
 7. 딥러닝
 ```
-
-*모든 pdf와 강의코드는 연세대학교 - 네이버클라우드 데이터사이언스과정(응용)(김현중, 김현태, 전용호 교수님)의 저작물입니다.
+![](https://github.com/ONground-Korea/DataScience_Medicine/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-07-08%20145645.png?raw=true)
